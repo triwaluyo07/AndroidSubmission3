@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">검색</string>
+    <string name="search_hint">검색</string>
+    <string name="following">수행원</string>
+    <string name="followers">추종자</string>
+    <string name="repository">저장소</string>
+
+
+    <string name="tab_1">추종자</string>
+    <string name="tab_2">수행원</string>
+
+    <string name="change_language">언어 변경</string>
+    <string name="menu_favorite">특히 잘하는</string>
+    <string name="content_ic_search">검색 아이콘</string>
+    <string name="content_ic_logo">로고 아이콘</string>
+    <string name="setting_alarm">알람 설정</string>
+
+    <string name="set_reminder">매일 알림</string>
+    <string name="on">의 위에</string>
+    <string name="off">떨어져서</string>
+
+    <string name="alarm_setting">알람 설정</string>
+</resources>

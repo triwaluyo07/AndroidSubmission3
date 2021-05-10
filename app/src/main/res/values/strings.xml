@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="repository">Repository</string>
+
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+
+    <string name="change_language">Change Language</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="content_ic_search">ic_search</string>
+    <string name="content_ic_logo">ic_logo</string>
+    <string name="setting_alarm">Setting Alarm</string>
+
+    <string name="set_reminder">Daily Reminder</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    <string name="alarm_setting"> Setting Alarm</string>
+</resources>

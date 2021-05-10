@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Mencari</string>
+    <string name="search_hint">Mencari</string>
+    <string name="following">Pengikut</string>
+    <string name="followers">Mengikuti</string>
+    <string name="repository">Repositori</string>
+
+
+    <string name="tab_1">Pengikut</string>
+    <string name="tab_2">Mengikuti</string>
+
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="menu_favorite">Favorit</string>
+    <string name="content_ic_search">ic_pencari</string>
+    <string name="content_ic_logo">ic_logo</string>
+    <string name="setting_alarm">Pengaturan Alarm</string>
+
+    <string name="set_reminder">Pengingat Harian</string>
+    <string name="on">MENYALA</string>
+    <string name="off">MATI</string>
+
+    <string name="alarm_setting">Pengaturan Alarm</string>
+
+</resources>
